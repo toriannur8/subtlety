@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Add missing single-line docstrings (#8362)
