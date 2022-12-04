@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
