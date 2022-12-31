@@ -1,1 +1,1 @@
-fix predict with class filter
+Update Colab notebook for YOLOv8.1 (#8660)
