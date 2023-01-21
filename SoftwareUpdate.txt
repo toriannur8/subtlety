@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Explorer with LanceDB, Actions and Docs updates (#7487)
