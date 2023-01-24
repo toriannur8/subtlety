@@ -1,1 +1,1 @@
-fix resume training
+Update Discord and Contributing Guide URLs (#9270)
