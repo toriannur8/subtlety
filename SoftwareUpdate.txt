@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
