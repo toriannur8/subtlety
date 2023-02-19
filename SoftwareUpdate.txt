@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Fix Neural Magic links (#9144)
