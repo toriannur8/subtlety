@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
