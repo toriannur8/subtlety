@@ -1,1 +1,1 @@
-Update Docs README (#8919)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
