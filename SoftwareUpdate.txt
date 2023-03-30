@@ -1,1 +1,1 @@
-Update Roboflow segmentation Docs pages (#8094)
+ultralytics 8.1.7 USER_CONFIG_DIR Explorer ops (#7861)
