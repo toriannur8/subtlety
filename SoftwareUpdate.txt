@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Add PR Summary step to Ultralytics Actions (#7675)
