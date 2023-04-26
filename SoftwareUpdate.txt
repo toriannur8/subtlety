@@ -1,1 +1,1 @@
-fix resume training
+Expand Model method type hinting (#8279)
