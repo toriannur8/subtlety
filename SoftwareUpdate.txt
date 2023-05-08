@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
