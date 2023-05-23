@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Update H1 in Explorer API docs (#7813)
