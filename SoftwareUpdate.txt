@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Add C++ Classify inference example (#6868)
