@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Pass callbacks to validator (#7320)
