@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
