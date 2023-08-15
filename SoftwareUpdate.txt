@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
