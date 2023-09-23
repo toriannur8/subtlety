@@ -1,1 +1,1 @@
-ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
+Add Neural Magic Docs integrations page (#7234)
