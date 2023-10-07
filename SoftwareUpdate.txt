@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Optimize function calls to method calls (#8507)
