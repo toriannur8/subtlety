@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+Add PR Summary step to Ultralytics Actions (#7675)
