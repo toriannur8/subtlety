@@ -1,1 +1,1 @@
-ultralytics 8.1.6 revert 8.0.206 box ops box scaling (#7823)
+ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
