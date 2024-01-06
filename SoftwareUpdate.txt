@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Update Twitter icon in Docs (#7711)
