@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Add CoreML Docs Integrations Page (#8063)
