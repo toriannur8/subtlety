@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+YOLOv8 INT8 TFLite Inference Example (#7317)
