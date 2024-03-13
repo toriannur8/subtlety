@@ -1,1 +1,1 @@
-Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
+Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
