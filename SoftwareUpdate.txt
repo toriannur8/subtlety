@@ -1,1 +1,1 @@
-New MLFLOW_KEEP_RUN_ACTIVE flag for enhanced MLflow run management (#8808)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
