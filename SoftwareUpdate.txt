@@ -1,1 +1,1 @@
-fix print val map
+Add horizontal Mosaic3 augmentation (#6898)
