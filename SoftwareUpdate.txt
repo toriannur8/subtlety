@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Fix cmake requirements for ARM64 (#8589)
