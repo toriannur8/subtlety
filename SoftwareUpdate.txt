@@ -1,1 +1,1 @@
-ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
